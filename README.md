@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Cloud Platforms,DevOps**
+- 💬 Ask me about **Cloud Platforms, DevOps**
 
 - 📫 How to reach me **adarshnadakane2004@gmail.com**
 
